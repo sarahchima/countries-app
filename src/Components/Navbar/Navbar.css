@@ -1,0 +1,30 @@
+.navbar-container {
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+    background-color: #ffffff;
+}
+.navbar {
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5%;
+}
+
+.toggle {
+    border: 0;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.toggle span {
+    font-size: 24px;
+    margin-right: 5px;
+}
+
+@media (max-width: 600px) {
+    .navbar-header {
+        font-size: 18px;
+    }
+}

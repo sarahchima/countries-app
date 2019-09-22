@@ -1,0 +1,91 @@
+.country-card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 0.25fr));
+    grid-gap: 4rem;
+}
+
+.home-page-main {
+    margin: 0 auto;
+    padding: 3rem 5%;
+}
+
+.filter-container {
+    padding: 0 5%;
+    margin: 3rem 0 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.search-field {
+    width: 33%;
+    min-width: 200px;
+    background-color: #ffffff;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+    padding: 0 1rem;
+    height: 42px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+}
+
+.search-field input {
+    height: 32px;
+    border: 0;
+    width: 100%;
+    font-size: 16px;
+    outline: none;
+    margin-left: 10px;
+}
+
+.dropdown {
+    display: block;
+    height: 42px;
+    border: 0;
+    background: #ffffff;
+    border-radius: 4px;
+    width: 200px;
+    font-size: 16px;
+    padding: 0;
+    outline: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+}
+
+.dropdown-container {
+    position: relative;
+}
+
+.dropdown .css-yk16xz-control {
+    border: 0;
+    outline: none;
+    min-height: 42px;
+    padding: 0px 10px;
+}
+
+.dropdown .css-1okebmr-indicatorSeparator {
+    width: 0;
+}
+
+.dropdown .css-1pahdxg-control {
+    min-height: 42px;
+    padding: 0px 10px;
+}
+
+@media (max-width: 600px) {
+    .filter-container {
+        flex-direction: column;
+    }
+
+    .search-field {
+        width: 94%;
+        margin-bottom: 20px
+    }
+
+    .country-card-container {
+        grid-template-columns: 1fr;
+        padding: 0 10%;
+    }
+}
+
+
