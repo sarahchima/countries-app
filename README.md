@@ -10,5 +10,7 @@ This is a practice project gotten from frontendmentor.io. Features of this app i
 <li>Click on a country to see more detailed information on a separate page</li>
 <li>Click through to the border countries on the detail page</li>
 <li>Toggle the color scheme between light and dark mode (optional)</li>
-  </ul>
+</ul>
+
+It is deployed [here](https://sarahchima.github.io/countries-app/)
 
