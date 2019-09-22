@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sarahchima/countries-app/static/css/main.cf2da6a0.chunk.css",
-    "main.js": "/sarahchima/countries-app/static/js/main.7fd02fe4.chunk.js",
-    "main.js.map": "/sarahchima/countries-app/static/js/main.7fd02fe4.chunk.js.map",
-    "runtime~main.js": "/sarahchima/countries-app/static/js/runtime~main.3f8aea65.js",
-    "runtime~main.js.map": "/sarahchima/countries-app/static/js/runtime~main.3f8aea65.js.map",
-    "static/js/2.1e67b78b.chunk.js": "/sarahchima/countries-app/static/js/2.1e67b78b.chunk.js",
-    "static/js/2.1e67b78b.chunk.js.map": "/sarahchima/countries-app/static/js/2.1e67b78b.chunk.js.map",
-    "index.html": "/sarahchima/countries-app/index.html",
-    "precache-manifest.4321b1ce4d2d6caf2a8b2c97f8034766.js": "/sarahchima/countries-app/precache-manifest.4321b1ce4d2d6caf2a8b2c97f8034766.js",
-    "service-worker.js": "/sarahchima/countries-app/service-worker.js",
-    "static/css/main.cf2da6a0.chunk.css.map": "/sarahchima/countries-app/static/css/main.cf2da6a0.chunk.css.map"
+    "main.css": "/countries-app/static/css/main.cf2da6a0.chunk.css",
+    "main.js": "/countries-app/static/js/main.740c2906.chunk.js",
+    "main.js.map": "/countries-app/static/js/main.740c2906.chunk.js.map",
+    "runtime~main.js": "/countries-app/static/js/runtime~main.59456884.js",
+    "runtime~main.js.map": "/countries-app/static/js/runtime~main.59456884.js.map",
+    "static/js/2.1e67b78b.chunk.js": "/countries-app/static/js/2.1e67b78b.chunk.js",
+    "static/js/2.1e67b78b.chunk.js.map": "/countries-app/static/js/2.1e67b78b.chunk.js.map",
+    "index.html": "/countries-app/index.html",
+    "precache-manifest.cee75b74b3201fd29743576568167746.js": "/countries-app/precache-manifest.cee75b74b3201fd29743576568167746.js",
+    "service-worker.js": "/countries-app/service-worker.js",
+    "static/css/main.cf2da6a0.chunk.css.map": "/countries-app/static/css/main.cf2da6a0.chunk.css.map"
   }
 }
